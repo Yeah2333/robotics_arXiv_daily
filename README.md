@@ -9,6 +9,7 @@
     <li><a href=#vla>VLA</a></li>
     <li><a href=#humanoid>Humanoid</a></li>
     <li><a href=#dexterous>Dexterous</a></li>
+    <li><a href=#vln>VLN</a></li>
   </ol>
 </details>
 
@@ -5002,6 +5003,33 @@
 |**2019-01-23**|**Learning Dexterous In-Hand Manipulation**|Wojciech Zaremba Team|[1808.00177](http://arxiv.org/abs/1808.00177)|null|
 |**2018-06-27**|**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**|Sergey Levine Team|[1709.10087](http://arxiv.org/abs/1709.10087)|**[link](https://sites.google.com/view/deeprl-dexterous-manipulation)**|
 |**2017-03-21**|**Learning Dexterous Manipulation for a Soft Robotic Hand from Human Demonstration**|Pieter Abbeel Team|[1603.06348](http://arxiv.org/abs/1603.06348)|null|
+
+<p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
+
+## VLN
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-12-11**|**Efficient-VLN: A Training-Efficient Vision-Language Navigation Model**|Liwei Wang Team|[2512.10310](http://arxiv.org/abs/2512.10310)|null|
+|**2025-12-10**|**SimWorld-Robotics: Synthesizing Photorealistic and Dynamic Urban Environments for Multimodal Robot Navigation and Collaboration**|Tianmin Shu Team|[2512.10046](http://arxiv.org/abs/2512.10046)|null|
+|**2025-12-09**|**Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning**|Feng Xu Team|[2512.08639](http://arxiv.org/abs/2512.08639)|null|
+|**2025-12-09**|**Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation**|Xihui Liu Team|[2512.08186](http://arxiv.org/abs/2512.08186)|null|
+|**2025-12-02**|**SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization**|Deheng Ye Team|[2512.02631](http://arxiv.org/abs/2512.02631)|null|
+|**2025-11-21**|**Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation**|Zhaoxin Fan Team|[2511.17097](http://arxiv.org/abs/2511.17097)|null|
+|**2025-11-19**|**RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action**|Jiayu Chen Team|[2511.14161](http://arxiv.org/abs/2511.14161)|null|
+|**2025-11-29**|**Cross Modal Fine-Grained Alignment via Granularity-Aware and Region-Uncertain Modeling**|Yuncheng Jiang Team|[2511.07710](http://arxiv.org/abs/2511.07710)|null|
+|**2025-11-21**|**OpenVLN: Open-world Aerial Vision-Language Navigation**|Yang Cong Team|[2511.06182](http://arxiv.org/abs/2511.06182)|null|
+|**2025-11-02**|**Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks**|Xuming Hu Team|[2510.25760](http://arxiv.org/abs/2510.25760)|null|
+|**2025-10-29**|**SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning**|Wei Pan Team|[2510.25191](http://arxiv.org/abs/2510.25191)|null|
+|**2025-10-22**|**LaViRA: Language-Vision-Robot Actions Translation for Zero-Shot Vision Language Navigation in Continuous Environments**|Yang Gao Team|[2510.19655](http://arxiv.org/abs/2510.19655)|null|
+|**2025-10-01**|**VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation**|Amirreza Shaban Team|[2510.01388](http://arxiv.org/abs/2510.01388)|null|
+|**2025-10-01**|**Disentangling Foreground and Background for vision-Language Navigation via Online Augmentation**|Richang Hong Team|[2510.00604](http://arxiv.org/abs/2510.00604)|null|
+|**2025-09-29**|**AdaNav: Adaptive Reasoning with Uncertainty for Vision-Language Navigation**|Ting Cao Team|[2509.24387](http://arxiv.org/abs/2509.24387)|null|
+|**2025-09-29**|**SONAR: Semantic-Object Navigation with Aggregated Reasoning through a Cross-Modal Inference Paradigm**|Jiankun Wang Team|[2509.24321](http://arxiv.org/abs/2509.24321)|null|
+|**2025-09-26**|**JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation**|Xing Wei Team|[2509.22548](http://arxiv.org/abs/2509.22548)|**[link](https://miv-xjtu.github.io/JanusVLN.github.io/)**|
+|**2025-09-24**|**Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting**|Henry X. Liu Team|[2509.20499](http://arxiv.org/abs/2509.20499)|null|
+|**2025-09-23**|**SINGER: An Onboard Generalist Vision-Language Navigation Policy for Drones**|Mac Schwager Team|[2509.18610](http://arxiv.org/abs/2509.18610)|null|
+|**2025-09-23**|**VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation**|Ufuk Topcu Team|[2509.18592](http://arxiv.org/abs/2509.18592)|**[link](https://vln-zero.github.io/)**|
 
 <p align=right>(<a href=#updated-on-20251212>back to top</a>)</p>
 
