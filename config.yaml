@@ -33,3 +33,5 @@ keywords:
         filters: ["Humanoid Robot", "Humanoid"]
     "Dexterous":
         filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "VLN":
+        filters: ["VLN", "Vision Language Navigation", "Vision-Language-Navigation", VLA]
