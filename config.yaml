@@ -24,7 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     # --------- My Keywords ---------
     "VLN":
-        filters: ["VLN", "Vision Language Navigation", "Vision-Language-Navigation", VLA]
+        filters: ["VLN", "Vision Language Navigation", "Vision-Language-Navigation", "Embodied Navigation"]
     "VLM":
         filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
     "VLA":
